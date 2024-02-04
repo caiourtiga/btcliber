@@ -21,8 +21,7 @@ i18n
         translation: {
           description: [
             {
-              id: 1,
-              image: "/assets/images/thumbs.png",
+              id: 1,              
               title: "O que é Bitcoin?",
               text: "O Bitcoin é uma moeda digital que foi criada em 2009 por Satoshi Nakamoto. Suas transações são feitas sem intermediários, ou seja, sem bancos para controlar quaisquer negociações! O Bitcoin é descentralizado, não é controlado por nenhuma autoridade ou governo e cada indivíduo é dono soberano de sua parcela. Qualquer um pode se conectar e fortalecer a rede do Bitcoin, se seu computador for capaz, fazendo dele uma moeda global que pode ser usada em todo lugar do mundo.",
               text2: "Leia aqui o whitepaper do Bitcoin:",
@@ -30,20 +29,18 @@ i18n
               link2: "https://bitcoin.org/files/bitcoin-paper/bitcoin_pt_br.pdf"
             },
             {
-              id: 2,
-              image: "/assets/images/inte2.png",
+              id: 2,              
               title: "Conceito 2",
               text: "Site conceito para a empresa Plugreen",
               text2: "Feito com React+Vite para desktops e tablets. Possui calculadora de descarbonização baseada em API própria",
-              link: "https://www.youtube.com/watch?v=G96BwgnBAhU"
+              link: "https://www.youtube.com/embed/uu3gJOZfkqI?si=kRg0DAAJmCzFP_mi"
             },
             {
-              id: 3,
-              image: "/assets/images/pgreenco.png",
+              id: 3,              
               title: "Site oficial Plugreen",
               text: "Pagina oficial da empresa Plugreen",
               text2: "Feito com Wordpress para todas as telas",
-              link: "https://plugreen.co/"
+              link: "https://www.youtube.com/embed/4DyNaTS1HUE?si=Qvzz2ygDNqoheVO8"
             }
           ],
           Nav1: 'Início',
@@ -63,24 +60,22 @@ i18n
         translation: {
           description: [
             {
-              id: 1,
-              image: "/assets/images/thumbs.png",
-              title: "Concept 1",
+              id: 1,              
+              title: "What is Bitcoin?",
               text: "Concept website for Plugreen company",
               text2: "Built with React+Vite for all screens. Features a decarbonization calculator based on its own API",
-              link: "https://pgreenv1.netlify.app/"
+              link: "https://pgreenv1.netlify.app/",
+              link2: "https://bitcoin.org/bitcoin.pdf"
             },
             {
-              id: 2,
-              image: "/assets/images/inte2.png",
+              id: 2,              
               title: "Concept 2",
               text: "Concept website for Plugreen company",
               text2: "Built with React+Vite for desktops and tablets. Features a decarbonization calculator based on its own API",
               link: "https://plugreenrascunho.netlify.app/"
             },
             {
-              id: 3,
-              image: "/assets/images/pgreenco.png",
+              id: 3,              
               title: "Official Plugreen Website",
               text: "Official page of the Plugreen company",
               text2: "Built with Wordpress for all screens",

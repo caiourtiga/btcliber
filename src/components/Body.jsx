@@ -36,7 +36,7 @@ const Body = () => {
                 <h2 className="m-2">{item.id}. {item.title}</h2>
                 <p className="h5">&ensp;{item.text}</p>
                 <p className="asas">{item.text2} <a href={item.link2}>{item.link2}</a></p>
-                <iframe className="text-center col-12" width="560" height="340" src={item.link} title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <iframe className="text-center col-12" width="560" height="400" src={item.link} title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
               </div>
             </div>
           ))}

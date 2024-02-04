@@ -30,17 +30,21 @@ i18n
             },
             {
               id: 2,              
-              title: "Conceito 2",
-              text: "Site conceito para a empresa Plugreen",
-              text2: "Feito com React+Vite para desktops e tablets. Possui calculadora de descarbonização baseada em API própria",
-              link: "https://www.youtube.com/embed/uu3gJOZfkqI?si=kRg0DAAJmCzFP_mi"
+              title: "Por que Bitcoin?",
+              text: "Seu dinheiro não é seu. O seu dinheiro é do banco, dos políticos e do governo. A qualquer momento um desses pode decidir que você não terá mais acesso ao seu dinheiro ou que ele não vale mais nada, e criticar a autoridade errada pode causar efeitos semelhantes. Com o Bitcoin você é o dono do seu dinheiro. Basta criar uma carteira de Bitcoin e você será livre para enviar, receber e guardar esse dinheiro sem medo de perder o que é seu.",
+              text2: "Assista o episódio legendado de Hidden Secrets of Money:",
+              link: "https://www.youtube.com/embed/uu3gJOZfkqI?si=kRg0DAAJmCzFP_mi",
+              link2: "https://www.youtube.com/embed/iFDe5kUUyT0?si=mvam4byA8GLLSOGa"
             },
             {
               id: 3,              
-              title: "Site oficial Plugreen",
-              text: "Pagina oficial da empresa Plugreen",
-              text2: "Feito com Wordpress para todas as telas",
-              link: "https://www.youtube.com/embed/4DyNaTS1HUE?si=Qvzz2ygDNqoheVO8"
+              title: "Como comprar Bitcoin?",
+              text: "Para comprar Bitcoin você usará seu dinheiro convencional e uma carteira Bitcoin, podendo comprá-lo de vendedores individuais ou em corretoras. A corretora faz a intermediação entre compradores e vendedores de Bitcoin, e é a forma mais segura de comprar Bitcoin, porém não de armazenar. Igual aos bancos, as corretoras são verdadeiros donos dos Bitcoins que você compra, e se ela falir ou hackeada, você perderá seus fundos. Elas servem para comprar Satoshis, frações da moeda, de maneira rápida e segura, mas não para guardar quantias significativas. Afim de manter seus Bitcoins de maneira segura, você precisará de uma carteira digital. Existem várias carteiras para escolher, cada uma para um tipo de usuário, mas uma de PC/Celular é suficiente para começar essa jornada. Eu particulamente uso a Electrum. ",
+              text2: "Como usar a Electrum:",
+              text3: "Baixe agora a Electrum:",
+              link: "https://www.youtube.com/embed/4DyNaTS1HUE?si=Qvzz2ygDNqoheVO8",
+              link2: "https://www.youtube.com/watch?v=-odBnMyJPb4",
+              link3: "https://electrum.org/#home"
             }
           ],
           Nav1: 'Início',
@@ -62,31 +66,33 @@ i18n
             {
               id: 1,              
               title: "What is Bitcoin?",
-              text: "Concept website for Plugreen company",
-              text2: "Built with React+Vite for all screens. Features a decarbonization calculator based on its own API",
-              link: "https://pgreenv1.netlify.app/",
+              text: "Bitcoin is a digital currency that was created in 2009 by Satoshi Nakamoto. Its transactions are conducted without intermediaries, meaning no banks are involved in controlling any transactions. Bitcoin is decentralized, not controlled by any authority or government, and each individual is the sovereign owner of their share. Anyone can connect and strengthen the Bitcoin network, if their computer is capable, making it a global currency that can be used anywhere in the world.",
+              text2: "Read the Bitcoin whitepaper here:",
+              link: "https://www.youtube.com/embed/BL5vUVQvmX4?si=TfFAMhY8GdDIOKvS",
               link2: "https://bitcoin.org/bitcoin.pdf"
             },
             {
               id: 2,              
-              title: "Concept 2",
-              text: "Concept website for Plugreen company",
-              text2: "Built with React+Vite for desktops and tablets. Features a decarbonization calculator based on its own API",
-              link: "https://plugreenrascunho.netlify.app/"
+              title: "Why Bitcoin?",
+              text: "Your money is not yours. Your money belongs to the bank, politicians and government. At any moment, one of them can decide that you will no longer have access to your money or that it is worthless, and criticizing the wrong authority can have similar effects. With Bitcoin, you are the owner of your money. Just create a Bitcoin wallet, and you will be free to send, receive, and store your money without fear of losing what is rightfully yours.",
+              text2: "Watch this episode of Hidden Secrets of Money:",
+              link: "https://plugreenrascunho.netlify.app/",
+              link2: "https://www.youtube.com/embed/iFDe5kUUyT0?si=mvam4byA8GLLSOGa"
             },
             {
               id: 3,              
-              title: "Official Plugreen Website",
-              text: "Official page of the Plugreen company",
+              title: "How to buy Bitcoin?",
+              text: "To buy Bitcoin you will need to use your conventional money and a Bitcoin wallet, being able to buy it from individual sellers or exchanges. The exchange acts as an intermediary between Bitcoin buyers and sellers and is the safest way to buy Bitcoin, but not to store it. Similar to banks, exchanges are the true owners of the Bitcoins you purchase, and if they go bankrupt or are hacked, you will lose your funds. They are useful for quickly and safely buying Satoshis, fractions of the currency, but not for storing significant amounts. To keep your Bitcoins secure you will need a digital wallet. There are several wallets to choose from, each designed for a specific type of user, but a PC/Mobile wallet will be enough for teh beginning of your journey. I personally use Electrum.",
               text2: "Built with Wordpress for all screens",
-              link: "https://plugreen.co/"
+              link: "https://plugreen.co/",
+              link2: "https://electrum.org/#home"
             }
           ],
           Nav1: 'Start',
           Nav2: 'Projects',
           Nav3: 'Media',
           Nav4: 'Contact',
-          Hero: 'What is Bitcoin? ',
+          Hero: 'This is a brief guide about Bitcoin, how to buy it, use it and protect it. May this guide help you understand Bitcoin better and lead you to the path of freedom, peace and prosperity.',
           Ver: 'View',
           Emailhint: 'youremail@email.com',
           Phone: 'Phone',

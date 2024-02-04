@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Montserrat:wght@400;700;900&family=Reem+Kufi:wght@400;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-brand {
+    height: 2.75rem;
+    font-size: x-large;
+}
+
+.navbar {
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    height: 5rem;
+    z-index: 2;
+}
+
+.nav-item {
+    padding: 4px;
+    font-size: large;
+    z-index: 2;
+}
+
+body {
+    background-color: rgb(5, 5, 19);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.brasilbutton {
+    font-size: 1.4rem;
+    max-width: 3.1rem;
+    max-height: 4rem;
+    background-size: contain;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-color: transparent;
+    background-image: URL(/br.svg);
+}
+
+.usbutton {
+    font-size: 1.4rem;
+    max-width: 3rem;
+    max-height: 4rem;
+    background-size: contain;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-color: transparent;
+    background-image: URL(/us.svg);
+}
+
+.bttext {
+    opacity: 0
+}
+
+.cardcontent {
+    opacity: 0;
+    transition: 0.6s;
+    background: rgba(0, 0, 0, 0.90);
+    height: 100%;
+    width: 100%;
+}
+
+.cardcontent:hover {
+    opacity: 1;
+}
+
+.card {
+    max-width: 36rem;
+}
+
+.skills {
+    margin-top: 1rem;
+    margin-bottom: 8rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.28rem;
+}
+
+.timg {
+    width: 8rem;
+    height: 8rem;
+}
+
+.socials {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 8rem;
+    font-size: 1.4rem;
+}
+
+.simg {
+    width: 12.5rem;
+    height: 12.5rem;
+}
+
+.form-text {
+    color: white !important;
+}
+
+.formbutton {
+    font-size: 1.4rem;
+    max-width: 10rem;
+}

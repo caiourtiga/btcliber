@@ -10,7 +10,7 @@ const Body = () => {
   };
 
   return (
-    <div className="my-4">
+    <div className="mt-4">
       <br />
       <div>
         <div className="container text-center my-4">
@@ -42,6 +42,13 @@ const Body = () => {
             </div>
           ))}
         </div>
+      </div>
+      <br />
+      <br />
+      <div className="container-fluid bg-dark p-2 text-light ">
+        <p className="text-center fw-semibold h5 footert">{t('Madeby')}
+          <a className="ms-2 text-light " href="https://github.com/caiourtiga">Caio Urtiga.</a>
+        </p>
       </div>
     </div>
   )

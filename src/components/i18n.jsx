@@ -57,7 +57,8 @@ i18n
           Phone: 'Telefone',
           Phonehint: 'Apenas Whatsapp',
           Message: 'Mensagem',
-          Sendbt: 'Enviar'
+          Sendbt: 'Enviar',
+          Madeby: 'Feito por'
         }
       },
       en: {
@@ -66,7 +67,7 @@ i18n
             {
               id: 1,              
               title: "What is Bitcoin?",
-              text: "Bitcoin is a digital currency that was created in 2009 by Satoshi Nakamoto. Its transactions are conducted without intermediaries, meaning no banks are involved in controlling any transactions. Bitcoin is decentralized, not controlled by any authority or government, and each individual is the sovereign owner of their share. Anyone can connect and strengthen the Bitcoin network, if their computer is capable, making it a global currency that can be used anywhere in the world.",
+              text: "Bitcoin is a digital money that was created in 2009 by Satoshi Nakamoto. Its transactions are conducted without intermediaries, meaning no banks are involved in controlling any transactions. Bitcoin is decentralized, not controlled by any authority or government, and each individual is the sovereign owner of their share. Anyone can connect and strengthen the Bitcoin network, if their computer is capable, making it a global currency that can be used anywhere in the world.",
               text2: "Read the Bitcoin whitepaper here:",
               link: "https://www.youtube.com/embed/BL5vUVQvmX4?si=TfFAMhY8GdDIOKvS",
               link2: "https://bitcoin.org/bitcoin.pdf"
@@ -100,7 +101,8 @@ i18n
           Phone: 'Phone',
           Phonehint: 'Whatsapp only',
           Message: 'Message',
-          Sendbt: 'Send'
+          Sendbt: 'Send',
+          Madeby: 'Made by'
         }
       }
     }

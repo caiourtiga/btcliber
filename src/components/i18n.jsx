@@ -76,16 +76,18 @@ i18n
               title: "Why Bitcoin?",
               text: "Your money is not yours. Your money belongs to the bank, politicians and government. At any moment, one of them can decide that you will no longer have access to your money or that it is worthless, and criticizing the wrong authority can have similar effects. With Bitcoin, you are the owner of your money. Just create a Bitcoin wallet, and you will be free to send, receive, and store your money without fear of losing what is rightfully yours.",
               text2: "Watch this episode of Hidden Secrets of Money:",
-              link: "https://plugreenrascunho.netlify.app/",
+              link: "https://www.youtube.com/embed/3Rnqst5qCgA?si=19Jg5fLaJ874schb",
               link2: "https://www.youtube.com/embed/iFDe5kUUyT0?si=mvam4byA8GLLSOGa"
             },
             {
               id: 3,              
               title: "How to buy Bitcoin?",
-              text: "To buy Bitcoin you will need to use your conventional money and a Bitcoin wallet, being able to buy it from individual sellers or exchanges. The exchange acts as an intermediary between Bitcoin buyers and sellers and is the safest way to buy Bitcoin, but not to store it. Similar to banks, exchanges are the true owners of the Bitcoins you purchase, and if they go bankrupt or are hacked, you will lose your funds. They are useful for quickly and safely buying Satoshis, fractions of the currency, but not for storing significant amounts. To keep your Bitcoins secure you will need a digital wallet. There are several wallets to choose from, each designed for a specific type of user, but a PC/Mobile wallet will be enough for teh beginning of your journey. I personally use Electrum.",
-              text2: "Built with Wordpress for all screens",
-              link: "https://plugreen.co/",
-              link2: "https://electrum.org/#home"
+              text: "To buy Bitcoin you will need to use your conventional money and a Bitcoin wallet, being able to buy it from individual sellers or exchanges. The exchange acts as an intermediary between Bitcoin buyers and sellers and is the safest way to buy Bitcoin, but not to store it. Similar to banks, exchanges are the true owners of the Bitcoins you purchase, and if they go bankrupt or are hacked, you will lose your funds. They are useful for quickly and safely buying Satoshis, fractions of the currency, but not for storing significant amounts. To keep your Bitcoins secure you will need a digital wallet. There are several wallets to choose from, each designed for a specific type of user, but a PC/Mobile wallet will be enough for the beginning of your journey. I personally use Electrum.",
+              text2: "How to use Electrum:",
+              text3: "Download Electrum now:",
+              link: "https://www.youtube.com/embed/2FEVWUji7Kk?si=zMDQ9YEhngMMrMdj",
+              link2: "https://www.youtube.com/watch?v=ZGLWPFmYwrY",
+              link3: "https://electrum.org/#home"
             }
           ],
           Nav1: 'Start',
